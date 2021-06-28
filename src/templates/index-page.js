@@ -32,7 +32,8 @@ export const IndexPageTemplate = ({
           height: '150px',
           lineHeight: '1',
           justifyContent: 'space-around',
-          alignItems: 'left',
+          alignItems: 'center',
+          //to make text on image align center
           flexDirection: 'column',
         }}
       >
